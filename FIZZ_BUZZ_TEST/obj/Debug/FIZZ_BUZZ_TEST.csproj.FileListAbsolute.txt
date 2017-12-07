@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\FIZZ_BUZZ_TEST\FIZZ_BUZZ_TEST\bin\Debug\FIZZ_BUZZ_TEST.exe.config
+C:\Users\Student\Desktop\FIZZ_BUZZ_TEST\FIZZ_BUZZ_TEST\bin\Debug\FIZZ_BUZZ_TEST.exe
+C:\Users\Student\Desktop\FIZZ_BUZZ_TEST\FIZZ_BUZZ_TEST\bin\Debug\FIZZ_BUZZ_TEST.pdb
+C:\Users\Student\Desktop\FIZZ_BUZZ_TEST\FIZZ_BUZZ_TEST\obj\Debug\FIZZ_BUZZ_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\FIZZ_BUZZ_TEST\FIZZ_BUZZ_TEST\obj\Debug\FIZZ_BUZZ_TEST.exe
+C:\Users\Student\Desktop\FIZZ_BUZZ_TEST\FIZZ_BUZZ_TEST\obj\Debug\FIZZ_BUZZ_TEST.pdb
