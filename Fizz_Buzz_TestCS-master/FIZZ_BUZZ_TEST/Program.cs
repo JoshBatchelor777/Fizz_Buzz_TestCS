@@ -23,7 +23,7 @@ namespace FIZZ_BUZZ_TEST
             int i = 0;
 
             Console.WriteLine("FIZZ-BUZZ TEST:\n");
-            Console.WriteLine("Rules: \n" + "- Enter s atrt and end point to count from.\n" + "- If a number divisible by 3 is counted, say \"FIZZ\".\n" +
+            Console.WriteLine("Rules: \n" + "- Enter start and end point to count from.\n" + "- If a number divisible by 3 is counted, say \"FIZZ\".\n" +
                 "- If a number divisible by 5 is counted, say \"BUZZ\".\n" + 
                 "- For numbers divisible by both 3 and 5, say \"Fizz-Buzz!\".\n");
 
